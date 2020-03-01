@@ -33,7 +33,7 @@ public class Variables {
 
 		/* ? */
 		int $_ = 5;
-        int _3 = 2;
+		int _3 = 2;
 
 	}
 }
