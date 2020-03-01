@@ -39,41 +39,41 @@ public class Conditionals {
 		/* SWITcH CASE */
 
 		int three = 3;
-        switch (three) {
-            case 3:
-                System.out.println("three");
-            case 4:
-            	System.out.println("four");
-            default:
-                System.out.println("no");
-        }
+		switch (three) {
+		    case 3:
+			System.out.println("three");
+		    case 4:
+			System.out.println("four");
+		    default:
+			System.out.println("no");
+		}
 
 		String s = "switch case";
-        switch (s) {
-            case s.compareTo("SWITCH CASE") > 0:
-                System.out.println("Yes");
-                break;
-            default:
-                System.out.println("No");
-        }
+		switch (s) {
+		    case s.compareTo("SWITCH CASE") > 0:
+			System.out.println("Yes");
+			break;
+		    default:
+			System.out.println("No");
+		}
 
 		String s = "switch case";
-        switch (s) {
-            case s.compareTo("SWITCH CASE") > 0:
-                System.out.println("yes");
-                break;
-            default:
-                System.out.println("no");
-        }
+		switch (s) {
+		    case s.compareTo("SWITCH CASE") > 0:
+			System.out.println("yes");
+			break;
+		    default:
+			System.out.println("no");
+		}
 
 		String s = "Hello, World";
-        switch (s) {
-            case 1:
-                System.out.println("yes");
-                break;
-            default:
-                System.out.println("no");
-        }
+		switch (s) {
+		    case 1:
+			System.out.println("yes");
+			break;
+		    default:
+			System.out.println("no");
+		}
 
 	}
 }
