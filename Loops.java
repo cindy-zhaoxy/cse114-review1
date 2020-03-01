@@ -12,8 +12,6 @@ public class Loops {
             System.out.print("Enter your age: ");
         }
 
-        // System.out.println("1");
-
         /* WHILE */
         System.out.print("Enter your age: ");
         int age = stdin.nextInt();
