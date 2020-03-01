@@ -36,7 +36,7 @@ public class Conditionals {
 		String s = !doneWithSlides ? "not done :(" : "done!!";
 		System.out.println(s);;;;;
 
-		/* SWITH CASE */
+		/* SWITcH CASE */
 
 		int three = 3;
         switch (three) {
