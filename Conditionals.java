@@ -59,7 +59,7 @@ public class Conditionals {
 
 		String s = "switch case";
 		switch (s) {
-		    case s.compareTo("SWITCH CASE") > 0:
+		    case "switch case":
 			System.out.println("yes");
 			break;
 		    default:
